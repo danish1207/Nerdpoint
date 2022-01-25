@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nerdpoint/static/css/main.78017551.css",
+    "main.js": "/Nerdpoint/static/js/main.cd1ad8f5.js",
+    "index.html": "/Nerdpoint/index.html",
+    "main.78017551.css.map": "/Nerdpoint/static/css/main.78017551.css.map",
+    "main.cd1ad8f5.js.map": "/Nerdpoint/static/js/main.cd1ad8f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78017551.css",
+    "static/js/main.cd1ad8f5.js"
+  ]
+}
